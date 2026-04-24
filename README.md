@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Shiv
+# 👋 Hi, I'm Shiva Urolagin
 
-🚀 DevOps Engineer | Cloud Enthusiast | Automation Specialist  
+🚀 DevOps Engineer | Cloud Enthusiast | Automation Specialist | Security Engineer
 
 I am a passionate DevOps Engineer with hands-on experience in building, automating, and optimizing scalable infrastructure and deployment pipelines. I focus on reliability, performance, and security across cloud environments.
 
@@ -34,7 +34,8 @@ I am a passionate DevOps Engineer with hands-on experience in building, automati
 
 ### 🔐 Security
 - IAM Policies & Roles  
-- Secure CI/CD Practices  
+- Secure CI/CD Practices (SonarQube, Trivy, Docker Scout)
+- AWS Secaret Managment
 - Vulnerability Scanning  
 
 ---
