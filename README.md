@@ -22,7 +22,7 @@ I am a passionate DevOps Engineer with hands-on experience in building, automati
 - Linux (Ubuntu, Amazon Linux, CentOS)
 
 ### ☁️ Cloud Platforms
-- AWS (EC2, S3, VPC, IAM, RDS, CloudWatch)
+- AWS (EC2, S3, VPC, IAM, RDS, CloudWatch,ECS,EKS)
 - GCP (Compute Engine, Cloud Storage, IAM)
 
 ### ⚙️ DevOps Tools
@@ -30,7 +30,10 @@ I am a passionate DevOps Engineer with hands-on experience in building, automati
 - Jenkins  
 - Docker  
 - Kubernetes  
-- ELK Stack (Elasticsearch, Logstash, Kibana)  
+- Ansible
+- Terraform
+- ELK Stack (Elasticsearch, Logstash, Kibana)
+- Prometheus & Grafana
 
 ### 🔐 Security
 - IAM Policies & Roles  
