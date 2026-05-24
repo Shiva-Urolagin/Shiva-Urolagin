@@ -22,7 +22,7 @@ I am a passionate DevOps Engineer with hands-on experience in building, automati
 - Linux (Ubuntu, Amazon Linux, CentOS)
 
 ### ☁️ Cloud Platforms
-- AWS (EC2, S3, VPC, IAM, RDS, CloudWatch,ECS,EKS)
+- AWS (EC2, S3, VPC, IAM, ELB, EBS, RDS, CloudWatch, ECS, EKS)
 - GCP (Compute Engine, Cloud Storage, IAM)
 
 ### ⚙️ DevOps Tools
